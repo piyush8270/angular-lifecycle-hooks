@@ -1,4 +1,4 @@
-Angular Example App
+Angular lifecycle hook Example App
 -----------------------
 
 Example app with Angular  Angular CLI + Angular Material + . Contains lifecycle methods, generated library, and much more!
